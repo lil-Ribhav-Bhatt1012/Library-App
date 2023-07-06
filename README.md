@@ -10,7 +10,7 @@ Efficient use of React hooks and modern JavaScript.
 
 # Project Structure:
 The project structure is as follows: <br>
-'''-library-app
+-library-app
 |- node_modules/
 |- public/
 |- src/
@@ -21,7 +21,7 @@ The project structure is as follows: <br>
      |- BookService.js
   |- App.js
   |- index.js
-|- package.json'''
+|- package.json
 
 # Installation & Usage:
 Clone this repository and install dependencies: <br>
