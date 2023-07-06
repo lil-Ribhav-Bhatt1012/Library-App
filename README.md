@@ -10,19 +10,18 @@ Efficient use of React hooks and modern JavaScript.
 
 # Project Structure:
 The project structure is as follows: <br>
--library-app <br>
-|- node_modules/  <br>
-|- public/ <br>
-|- src/ <br>
-  |- components/ <br>
-     |- Navbar.js <tb>
-     |- BookGrid.js <tb>
-  |- services/ <br>
-     |- BookService.js <br>
-  |- App.js <br>
-  |- index.js <br>
-|- package.json
-
+'''-library-app
+|- node_modules/
+|- public/
+|- src/
+  |- components/
+     |- Navbar.js
+     |- BookGrid.js
+  |- services/
+     |- BookService.js
+  |- App.js
+  |- index.js
+|- package.json'''
 
 # Installation & Usage:
 Clone this repository and install dependencies: <br>
