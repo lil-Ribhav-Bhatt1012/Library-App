@@ -15,8 +15,8 @@ The project structure is as follows: <br>
 |- public/ <br>
 |- src/ <br>
   |- components/ <br>
-     |- Navbar.js 
-     |- BookGrid.js 
+     |- Navbar.js <tb>
+     |- BookGrid.js <tb>
   |- services/ <br>
      |- BookService.js <br>
   |- App.js <br>
